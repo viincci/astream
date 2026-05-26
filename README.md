@@ -1,20 +1,22 @@
-# ASTREAM
-
-Basic Anime streaming web. It uses <a href="https://github.com/consumet/api.consumet.org">consumet API</a> under-the-hood for everything from searching to streaming. It uses `gogoanime` as the stream provider.
-
-It written in only HTML, CSS and JS.
-
-<a href="https://astream.pages.dev"><img src="https://img.shields.io/badge/visit-astream-blue"></a>
-
----
-## Hosting
-Because is only a static website, you have a lot of free forever option for hosting. Use github page or cloudflare.
-
----
-## Support
-It's not like i'm gonna use the money for the server or something.. only donate me if you appreciate this work
-
-<a href="https://sociabuzz.com/willydev/tribe"><img src="https://img.shields.io/badge/donasi_untuk_indonesia-red"></a> <a href="https://sociabuzz.com/willydev/tribe"><img src="https://img.shields.io/badge/donate-blue"></a>
-
----
-That's all, Bye 👋👋👋
+# Astream
+Astream is a web-based anime streaming platform that allows users to watch their favorite anime shows for free. The platform has a simple and intuitive interface, making it easy for users to navigate and find their desired content.
+## Key Features
+- Simple and intuitive interface
+- Large collection of anime shows
+- Free to use
+- No ads
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+## Installation
+To install Astream, follow these steps:
+1. Clone the repository using git clone https://github.com/username/astream.git
+2. Install the required dependencies using npm install
+3. Start the server using npm start
+## Usage
+To use Astream, simply navigate to the website and start searching for your favorite anime shows. You can also browse through the different categories and genres to find something that interests you.
+## Environment Variables
+- apiEndpoint: the endpoint of the API used to fetch anime data
+- youtubeLinks: an array of YouTube video links used as placeholders for the video player
